@@ -1,5 +1,5 @@
 # Incongruity-Aware Crossmodal Transformer with Adaptive Conflict Elimination
-For ACL Rolling Review
+For AAAI
 
 The project I am currently focusing on is to propose a new paradigm for multimodal fusion.
       
